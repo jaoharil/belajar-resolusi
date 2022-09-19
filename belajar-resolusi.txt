@@ -1,3 +1,4 @@
 BELAJAR RESOLUSI
 - Konsisten Belajar Menjadi Backend
 - Membuat platform pengelolaan data
+- Membuat aplikasi bermanfaat di masadepan
