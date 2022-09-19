@@ -1,0 +1,5 @@
+rencana belajar
+-javascript
+-php
+-fluter
+-python
